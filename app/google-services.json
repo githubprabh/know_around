@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641287362197",
+    "firebase_url": "https://know3601-9d19f.firebaseio.com",
+    "project_id": "know3601-9d19f",
+    "storage_bucket": "know3601-9d19f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641287362197:android:35bb6c5b3e97df22f66d9c",
+        "android_client_info": {
+          "package_name": "com.example.know360_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641287362197-6hnf8a6g9m6r8t4e895ftlfdhhu17den.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.know360_1",
+            "certificate_hash": "8ceb452b13fc536e2b07acf64851697057bfd342"
+          }
+        },
+        {
+          "client_id": "641287362197-ntr3d6adnb9n1b14va8gem23257g00co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN53Ml0qI9Bju6QRPHRqyrvLcIJbH9k5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641287362197-ntr3d6adnb9n1b14va8gem23257g00co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
